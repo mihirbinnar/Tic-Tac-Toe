@@ -54,23 +54,6 @@ This project recreates the classic game with an intuitive interface using **Stre
 
 ---
 
-# 📂 Project Structure
-
-```text
-Tic-Tac-Toe/
-│
-├── app.py
-├── requirements.txt
-├── screenshots/
-│   ├── home.png
-│   ├── gameplay.png
-│   ├── winner.png
-│   └── draw.png
-│
-└── README.md
-```
-
----
 
 # 🎮 How to Play
 
@@ -84,7 +67,6 @@ Tic-Tac-Toe/
 
 # 📸 Screenshots
 
-<img width="1247" height="620" alt="Screenshot 2026-07-25 104408" src="https://github.com/user-attachments/assets/5249bcca-9bf5-4559-a4d9-137ae89a2b26" />
 
 ## 🎮 Gameplay
 
